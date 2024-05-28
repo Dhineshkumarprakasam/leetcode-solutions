@@ -5,8 +5,7 @@ class Solution:
             a=nums.index(target)
             nums.reverse()
             b=nums.index(target)
-            arr.append(a)
-            arr.append(len(nums)-1-b)
+            arr.extend([a,len(nums)-1-b])
         else:
             arr.extend([-1,-1])
         return arr
