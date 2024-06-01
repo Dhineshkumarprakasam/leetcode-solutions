@@ -4,9 +4,6 @@ public:
         
         if(nums.size()==1)
             return nums[0];
-        else if(nums.size()==0)
-            return -1;
-
         for(int i=0;i<nums.size();i+=2)
         {
             if(nums[i]!=nums[i+1])
