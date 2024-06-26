@@ -1,8 +1,12 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
+        d={}
         arr=[]
         for i in range(0,len(heights)):
-            index=heights.index(max(heights))
-            heights[index]=0
-            arr.append(names[index])
+            d[heights[i]]=names[i]
+        heights.sort()
+        heights.reverse()
+        
+        for j in heights:
+            arr.append(d[j])
         return arr
