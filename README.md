@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
