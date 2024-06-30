@@ -1,10 +1,11 @@
+import numpy
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
+        nums=numpy.array(nums)
+
         if target in nums:
-            a=nums.index(target)
-            count=Counter(nums)
-            b=count[target]+a-1
-            return [a,b]
+            indices = numpy.where(nums == target)[0]
+            return [min(indices),max(indices)]
         else:
             return [-1,-1]
         
