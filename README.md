@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
