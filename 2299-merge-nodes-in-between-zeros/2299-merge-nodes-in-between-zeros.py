@@ -24,6 +24,7 @@ class Solution:
             head.val=values[0]
             head.next=None
             return head
+        
         for i in range(len(values)):
             temp.val=values[i]
             temp=temp.next
