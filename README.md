@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
