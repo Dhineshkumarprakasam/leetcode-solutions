@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0078-subsets) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
