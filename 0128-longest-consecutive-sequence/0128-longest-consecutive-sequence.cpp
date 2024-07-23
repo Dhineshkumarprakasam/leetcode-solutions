@@ -1,12 +1,12 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& arr) {
+        if(arr.size()==0)
+            return 0;
        sort(arr.begin(),arr.end());
        int longest=1;
-       int count=0;
-       int lastSmaller=INT_MIN;
-       if(arr.size()==0)
-            return 0;
+       int count=1;
+       int lastSmaller=arr[0];
        for(int i=0;i<arr.size();i++)
        {
             if(arr[i]-1==lastSmaller)
