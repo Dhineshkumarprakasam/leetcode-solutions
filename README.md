@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2825-minimize-string-length](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2825-minimize-string-length) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2825-minimize-string-length](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2825-minimize-string-length) |
 ## Divide and Conquer
 |  |
 | ------- |
