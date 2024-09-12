@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
