@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
