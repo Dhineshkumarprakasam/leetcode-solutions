@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2825-minimize-string-length](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2825-minimize-string-length) |
+| [3379-score-of-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
 ## Binary Search Tree
