@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Tree
 |  |
