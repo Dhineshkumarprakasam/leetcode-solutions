@@ -22,13 +22,14 @@ public:
         if(length==1)
             return nullptr;
 
-        int pos=length-n;
+        int pos=length-n+1;
         if(pos==0)
         {
             return head->next;
         }
+        cout<<pos;
         temp=head;
-        for(int i=0;i<pos-1;i++)
+        for(int i=0;i<pos-2;i++)
             temp=temp->next;
         ListNode *garbage = temp->next;
         temp->next=temp->next->next;
