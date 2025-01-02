@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Counting
 |  |
