@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1250-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Union Find
 |  |
