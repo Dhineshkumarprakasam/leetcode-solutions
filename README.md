@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
