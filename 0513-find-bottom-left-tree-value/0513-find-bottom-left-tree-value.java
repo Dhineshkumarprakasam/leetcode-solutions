@@ -16,7 +16,7 @@
 class Solution {
     public int findBottomLeftValue(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
-        ArrayList<Integer> ans = new ArrayList<>();
+        int ans=0;
 
         queue.offer(root);
 
@@ -28,12 +28,12 @@ class Solution {
                 TreeNode curr = queue.poll();
 
                 if(i==0)
-                    ans.add(curr.val);
+                    ans=curr.val;
                 if(curr.left!=null) queue.offer(curr.left);
                 if(curr.right!=null) queue.offer(curr.right);
             }
         }
 
-        return ans.get(ans.size()-1);
+        return ans;
     }
 }
