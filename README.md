@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0813-all-paths-from-source-to-target](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0975-range-sum-of-bst](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0813-all-paths-from-source-to-target](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1254-deepest-leaves-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1254-deepest-leaves-sum) |
 ## String
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0078-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -338,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0182-duplicate-emails) |
+## Graph
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
