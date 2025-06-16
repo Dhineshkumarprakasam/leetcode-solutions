@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
