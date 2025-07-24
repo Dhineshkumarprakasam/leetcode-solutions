@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1250-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2825-minimize-string-length](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2825-minimize-string-length) |
