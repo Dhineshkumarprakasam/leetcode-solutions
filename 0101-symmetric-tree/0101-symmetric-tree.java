@@ -41,8 +41,6 @@ class Solution {
     public boolean isSymmetric(TreeNode root) {
         ArrayList<Integer> arr1 = new ArrayList<>();
         ArrayList<Integer> arr2 = new ArrayList<>();
-        System.out.println(arr1);
-        System.out.println(arr2);
 
         if(root==null)
             return true;
