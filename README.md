@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
