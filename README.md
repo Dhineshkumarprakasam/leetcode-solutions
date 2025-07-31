@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Union Find
 |  |
