@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
