@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -434,8 +437,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
