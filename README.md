@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -452,8 +455,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
