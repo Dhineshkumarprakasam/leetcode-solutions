@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
