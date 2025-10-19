@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
