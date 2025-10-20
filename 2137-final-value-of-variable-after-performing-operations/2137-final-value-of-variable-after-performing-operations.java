@@ -2,9 +2,9 @@ class Solution {
     public int finalValueAfterOperations(String[] operations) {
         int x=0;
         for(String i : operations){
-            if(i.equals("--X") || i.equals("X--"))
+            if(i.contains("-"))
                 x--;
-            else if(i.equals("X++") || i.equals("++X"))
+            else
                 x++;
         }
 
