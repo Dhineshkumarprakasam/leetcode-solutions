@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2571-find-the-pivot-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 ## Counting
 |  |
 | ------- |
