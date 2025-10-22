@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2664-maximize-greatness-of-an-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2825-minimize-string-length](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2825-minimize-string-length) |
+| [3034-points-that-intersect-with-cars](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2571-find-the-pivot-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
+| [3034-points-that-intersect-with-cars](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Counting
 |  |
 | ------- |
