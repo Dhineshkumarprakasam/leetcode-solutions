@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1916-find-center-of-star-graph](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1916-find-center-of-star-graph) |
 ## Design
 |  |
 | ------- |
