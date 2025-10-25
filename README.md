@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2556-convert-the-temperature](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2556-convert-the-temperature) |
