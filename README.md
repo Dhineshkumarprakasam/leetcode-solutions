@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2664-maximize-greatness-of-an-array) |
 ## Sorting
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
