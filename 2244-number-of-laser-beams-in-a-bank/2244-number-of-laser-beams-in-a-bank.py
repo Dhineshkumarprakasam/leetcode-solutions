@@ -9,9 +9,9 @@ class Solution:
         if not layers:
             return 0
         
-        ans=[]
+        ans=0
         for i in range(1,len(layers)):
-            ans.append(layers[i-1]*layers[i])
+            ans+=layers[i-1]*layers[i]
         
-        return sum(ans)
+        return ans
         
