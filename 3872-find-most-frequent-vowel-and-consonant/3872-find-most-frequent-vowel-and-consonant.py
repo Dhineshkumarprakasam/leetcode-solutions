@@ -6,7 +6,7 @@ class Solution:
         if len(s)=="":
             return 0
         for i in s:
-            if i in ['a','e','i','o','u']:
+            if i in "aeiou":
                 if i in vow:
                     vow[i]=vow[i]+1
                 else:
