@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [4008-restore-finishing-order](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
