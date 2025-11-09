@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2556-convert-the-temperature](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2748-calculate-delayed-arrival-time) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3336-water-bottles-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
