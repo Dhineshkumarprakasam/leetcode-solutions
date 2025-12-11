@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0258-add-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
