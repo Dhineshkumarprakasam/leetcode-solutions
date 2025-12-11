@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [0953-reverse-only-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0953-reverse-only-letters) |
