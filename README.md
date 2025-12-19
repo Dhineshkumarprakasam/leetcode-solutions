@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Prefix Sum
 |  |
