@@ -3,7 +3,7 @@ public:
     int numRookCaptures(vector<vector<char>>& board) {
         int count=0;
         int pos_r,r,pos_c,c;
-        //find post of rook
+        //find pos of rook
         for(int i=0;i<8;i++){
             for(int j=0;j<8;j++)
                 if(board[i][j]=='R'){
