@@ -5,34 +5,46 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        lis=[]
-        if list1==None and list2==None:
-            return list1
-        elif list1==None:
-            return list2
-        elif list2==None:
-            return list1
 
-        temp1=list1
-        while temp1.next!=None:
-            temp1=temp1.next
-
-        temp1.next=list2
-
-        temp1=list1
-        while temp1!=None:
-            lis.append(temp1.val)
-            temp1=temp1.next
-        
-        lis.sort()
-        index=0
-
-        temp1=list1
-        while temp1!=None:
-            temp1.val=lis[index]
-            index+=1
-            temp1=temp1.next
-        return list1
-
-
+        ans=None
+        tail=None
+        while(list1 is not None and list2 is not None):
+            if list1.val<list2.val:
+                if ans is None:
+                    ans = ListNode(list1.val)
+                    tail=ans
+                else:
+                    tail.next=ListNode(list1.val)
+                    tail=tail.next
+                list1=list1.next
             
+            else:
+                if ans is None:
+                    ans = ListNode(list2.val)
+                    tail=ans
+                else:
+                    tail.next=ListNode(list2.val)
+                    tail=tail.next
+                list2=list2.next
+        
+        while list1 is not None:
+            if ans is None:
+                ans = ListNode(list1.val)
+                tail=ans
+            else:
+                tail.next=ListNode(list1.val)
+                tail=tail.next
+            list1=list1.next
+        
+        while list2 is not None:
+            if ans is None:
+                ans = ListNode(list2.val)
+                tail=ans
+            else:
+                tail.next=ListNode(list2.val)
+                tail=tail.next
+            list2=list2.next
+        
+        return ans
+            
+
