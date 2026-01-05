@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1137-n-th-tribonacci-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Union Find
 |  |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
