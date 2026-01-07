@@ -5,7 +5,7 @@ class Solution:
             temp=[]
             for element in subset:
                 temp.append(element+[num])
-            
+
             for i in temp:
                 if i not in subset:
                     subset.append(i)
