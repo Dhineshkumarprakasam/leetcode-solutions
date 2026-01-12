@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0728-self-dividing-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0392-is-subsequence) |
