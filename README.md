@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0980-unique-paths-iii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0980-unique-paths-iii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0980-unique-paths-iii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
