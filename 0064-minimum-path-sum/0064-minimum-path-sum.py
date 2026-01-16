@@ -9,9 +9,8 @@ class Solution:
                     continue
                 top = float("inf") if i==0 else dp[i-1][j]
                 left = float("inf") if j==0 else dp[i][j-1]
+                dp[i][j]+=grid[i][j]+min(top,left)
                 
-                dp[i][j]+=grid[i][j]+min(
-                    top,left)
         return dp[r-1][c-1]
 
 
