@@ -6,5 +6,6 @@ class Solution:
         for i in range(len(nums)):
             curr+=nums[i]
             maxi=max(maxi,curr)
-            curr=0 if curr<0 else curr
+            if curr<0:
+                curr=0
         return maxi
