@@ -3,18 +3,15 @@ class Solution:
         n=len(nums)
         maxi=float("-inf")
         
-        prefix=1
+        prefix,suffix=1,1
         for i in range(n):
             prefix*=nums[i]
+            suffix*=nums[n-i-1]
+
             maxi=max(maxi,prefix)
-            if prefix==0:
-                prefix=1
-        
-        suffix=1
-        for i in range(n-1,-1,-1):
-            suffix*=nums[i]
             maxi=max(maxi,suffix)
-            if suffix==0:
-                suffix=1
+
+            if prefix==0: prefix=1
+            if suffix==0: suffix=1
         
         return maxi
