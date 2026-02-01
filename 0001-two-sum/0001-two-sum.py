@@ -1,10 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        d={}
+        d=dict()
         for i in range(len(nums)):
-            diff = target-nums[i]
-            if nums[i] in d:
-                return [i,d[nums[i]]]
-            else:
-                 d[diff]=i
+            val = target-nums[i]
+            if val in d:
+                return [i,d[val]]
+            d[nums[i]]=i
+        return [-1,-1]
             
