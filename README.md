@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
