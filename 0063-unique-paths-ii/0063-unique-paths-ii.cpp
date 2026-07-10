@@ -1,43 +1,27 @@
 class Solution {
 public:
-    bool isSafe(vector<vector<int>> &grid, int cr,int cc, int r, int c){
-        if(cr>=r || cc>=c || grid[cr][cc]==1)
-            return false;
-        else
-            return true;
-    }
-
-    int countPaths(int cr,int cc, int r, int c, vector<vector<int>>& grid, vector<vector<int>> &dp){
-        int left=0;
-        int right=0;
-
-        if(!isSafe(grid,cr,cc,r,c))
+    int uniquePathsWithObstacles(vector<vector<int>>& grid) {
+        int r=grid.size();
+        int c=grid[0].size();
+        vector<vector<int>> dp(r,vector<int>(c,0));
+    
+        if(grid[0][0]==1)
             return 0;
 
-        if(cr==r-1 && cc==c-1){
-            return 1;
+        dp[0][0]=1;
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+                if(grid[i][j]==1){
+                    dp[i][j]=0;
+                    continue;
+                }
+
+                if(i>0)
+                    dp[i][j]=dp[i][j]+dp[i-1][j];
+                if(j>0)
+                    dp[i][j]=dp[i][j]+dp[i][j-1];
+            }
         }
-
-        if(dp[cr][cc]!=-1)
-            return dp[cr][cc];
-
-        //down
-        if(isSafe(grid,cr+1,cc,r,c))
-            left=countPaths(cr+1,cc,r,c,grid,dp);
-        
-        //right
-        if(isSafe(grid,cr,cc+1,r,c))
-            right=countPaths(cr,cc+1,r,c,grid,dp);
-        
-        dp[cr][cc]=left+right;
-        return left+right;
-    }
-
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int r=obstacleGrid.size();
-        int c=obstacleGrid[0].size();
-        vector<vector<int>> dp(r,vector<int>(c,-1));
-        return countPaths(0,0,r,c,obstacleGrid,dp);
-
+        return dp[r-1][c-1];
     }
 };
