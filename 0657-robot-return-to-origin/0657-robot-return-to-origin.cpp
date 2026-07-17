@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int v = 0;
-        int h = 0;
+        int v = 0,h = 0;
 
         for(char i : moves){
             if(i=='U')
