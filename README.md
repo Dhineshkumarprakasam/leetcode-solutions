@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2664-maximize-greatness-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
