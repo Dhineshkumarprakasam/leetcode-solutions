@@ -4,7 +4,7 @@ public:
         int r = grid.size();
         int c = grid[0].size();
         int n = r*c;
-        set<int> s;
+        map<int,int> m;
         vector<int> ans;
 
         int total = (n*(n+1))/2;
@@ -12,8 +12,8 @@ public:
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 int e = grid[i][j];
-                if(s.find(e)==s.end()){
-                    s.insert(e);
+                if(m.find(e)==m.end()){
+                    m[e]=1;
                     currTotal+=e;
                 }
                 else{
