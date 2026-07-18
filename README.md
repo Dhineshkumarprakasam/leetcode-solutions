@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1284-four-divisors](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
