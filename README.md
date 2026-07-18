@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2048-build-array-from-permutation](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1642-water-bottles](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2048-build-array-from-permutation](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
