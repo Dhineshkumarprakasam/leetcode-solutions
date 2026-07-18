@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4008-restore-finishing-order](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1222-queens-that-can-attack-the-king) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -722,4 +724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
