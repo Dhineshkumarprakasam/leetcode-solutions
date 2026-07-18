@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3567-convert-date-to-binary](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3567-convert-date-to-binary) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 | [4008-restore-finishing-order](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/4008-restore-finishing-order) |
