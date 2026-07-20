@@ -22,11 +22,13 @@ public:
         if(root->right!=nullptr)
             inorder(root->right);
     }
+
     TreeNode* increasingBST(TreeNode* root) {
         inorder(root);
-        TreeNode *ans = new TreeNode(arr[0]);
         queue<TreeNode*> q;
-        q.push(ans);
+        root->val=arr[0];
+        root->left=nullptr;
+        q.push(root);
 
         int index=1;
         while(!q.empty()){
@@ -35,8 +37,9 @@ public:
             if(index>=arr.size())
                 break;
             curr->right = new TreeNode(arr[index++]);
+            curr->left = nullptr;
             q.push(curr->right);
         }
-        return ans;
+        return root;
     }
 };
