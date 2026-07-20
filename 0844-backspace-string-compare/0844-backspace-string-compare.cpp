@@ -11,7 +11,6 @@ public:
                     stk1.push(i);
             }
             
-        
         for(char i : t)
             if(i=='#' && !stk2.empty())
                 stk2.pop();
@@ -31,7 +30,6 @@ public:
             stk2.pop();
         }
         
-        cout<<str1<<" : "<<str2;
         if(str1==str2)
             return true;
         return false;
