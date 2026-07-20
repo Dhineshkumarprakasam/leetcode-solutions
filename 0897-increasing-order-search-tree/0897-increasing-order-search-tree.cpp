@@ -36,7 +36,11 @@ public:
             q.pop();
             if(index>=arr.size())
                 break;
-            curr->right = new TreeNode(arr[index++]);
+            if(curr->right==nullptr)
+                curr->right = new TreeNode(arr[index++]);
+            else{
+                curr->right->val=arr[index++];
+            }
             curr->left = nullptr;
             q.push(curr->right);
         }
