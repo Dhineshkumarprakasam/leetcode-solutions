@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 ## Tree
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-reverse-only-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2664-maximize-greatness-of-an-array) |
 ## Bucket Sort
