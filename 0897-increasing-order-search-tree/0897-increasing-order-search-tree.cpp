@@ -11,32 +11,32 @@
  */
 class Solution {
 public:
-    vector<int> ans;
+    vector<int> arr;
     void inorder(TreeNode *root){
         if(root==nullptr)
             return;
         
         if(root->left!=nullptr)
             inorder(root->left);
-        ans.push_back(root->val);
+        arr.push_back(root->val);
         if(root->right!=nullptr)
             inorder(root->right);
     }
     TreeNode* increasingBST(TreeNode* root) {
         inorder(root);
-        TreeNode *fin = new TreeNode(ans[0]);
+        TreeNode *ans = new TreeNode(arr[0]);
         queue<TreeNode*> q;
-        q.push(fin);
+        q.push(ans);
 
         int index=1;
         while(!q.empty()){
             TreeNode *curr = q.front();
             q.pop();
-            if(index>=ans.size())
+            if(index>=arr.size())
                 break;
-            curr->right = new TreeNode(ans[index++]);
+            curr->right = new TreeNode(arr[index++]);
             q.push(curr->right);
         }
-        return fin;
+        return ans;
     }
 };
