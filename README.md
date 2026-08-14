@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0878-shifting-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-unique-paths-iii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -796,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
