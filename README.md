@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2128-reverse-prefix-of-word) |
