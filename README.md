@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1983-maximum-population-year) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2571-find-the-pivot-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [3034-points-that-intersect-with-cars](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
