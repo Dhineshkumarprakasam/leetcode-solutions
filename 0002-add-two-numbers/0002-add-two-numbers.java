@@ -35,7 +35,6 @@ class Solution {
                 
             
             temp.next = new ListNode((sum%10));
-            System.out.println(sum%10);
             temp=temp.next;
             carry = sum/10;
         }
