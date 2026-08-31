@@ -2,8 +2,7 @@ class Solution {
     public boolean isValid(String s) {
         Stack<Character> stk = new Stack<>();
 
-        for(int j=0;j<s.length();j++){
-            char i = s.charAt(j);
+        for(char i : s.toCharArray()){
             if(stk.isEmpty() || i=='(' || i=='[' || i=='{')
                 stk.push(i);
             else{
