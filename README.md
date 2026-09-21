@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
