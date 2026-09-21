@@ -8,17 +8,14 @@ class MyQueue {
     }
     
     public void push(int x) {
-        if(stk1.isEmpty())
-            stk1.push(x);
-        else{
-            while(!stk1.isEmpty()){
-                stk2.push(stk1.pop());
-            }
-            stk1.push(x);
+        while(!stk1.isEmpty()){
+            stk2.push(stk1.pop());
+        }    
+        
+        stk1.push(x);
 
-            while(!stk2.isEmpty()){
-                stk1.push(stk2.pop());
-            }
+        while(!stk2.isEmpty()){
+            stk1.push(stk2.pop());
         }
     }
     
