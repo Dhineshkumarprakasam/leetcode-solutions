@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 ## Tree
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1598-crawler-log-folder](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1598-crawler-log-folder) |
