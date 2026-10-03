@@ -4,22 +4,33 @@ class Solution {
         Stack<Integer> stk = new Stack<Integer>();
         int second,first,ans;
         for(String i : tokens){
-            if(i.matches("^[+-]?[0-9]+")){
-                stk.push(Integer.parseInt(i));
-            }
-            else{
+           if(i.equals("*")){
                 first = stk.pop();
                 second = stk.pop();
-                if(i.equals("*"))
-                    ans = second*first;
-                else if(i.equals("/"))
-                    ans= second/first;
-                else if(i.equals("+"))
-                    ans=second+first;
-                else
-                    ans=second-first;
+                ans=second*first;
                 stk.push(ans);
-            }
+           }
+           else if(i.equals("/")){
+                first = stk.pop();
+                second = stk.pop();
+                ans=second/first;
+                stk.push(ans);
+           }
+           else if(i.equals("+")){
+                first = stk.pop();
+                second = stk.pop();
+                ans=second+first;
+                stk.push(ans);
+           }
+           else if(i.equals("-")){
+                first = stk.pop();
+                second = stk.pop();
+                ans=second-first;
+                stk.push(ans);
+           }
+           else{
+                stk.push(Integer.parseInt(i));
+           }
         }
 
         return stk.pop();
