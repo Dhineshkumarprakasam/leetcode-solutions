@@ -20,7 +20,7 @@ class Solution {
             }
 
             else if(i=='('){
-                result+=number*sign;
+                
                 stk.push(result);
                 stk.push(sign);
                 result=0;
