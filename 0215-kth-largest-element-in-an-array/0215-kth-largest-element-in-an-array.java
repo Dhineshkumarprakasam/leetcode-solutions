@@ -3,11 +3,11 @@ class Solution {
         PriorityQueue<Integer> q = new PriorityQueue<>();
         for(int i : nums){
             q.offer(i);
+            if(q.size()>k){
+                q.poll();
+            }
         }
-
-        for(int i=0;i<nums.length-k;i++)
-            q.poll();
         
-        return q.poll();
+        return q.peek();
     }
 }
