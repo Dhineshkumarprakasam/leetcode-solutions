@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Queue
 |  |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Merge Sort
 |  |
 | ------- |
@@ -868,4 +870,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
