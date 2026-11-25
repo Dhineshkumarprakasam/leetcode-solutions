@@ -10,27 +10,26 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode left = new ListNode(-1);
-        ListNode right = new ListNode(-1);
+
+        ListNode left=new ListNode(-1);
+        ListNode right=new ListNode(-1);
 
         ListNode leftTemp=left;
         ListNode rightTemp=right;
 
-        ListNode temp=head;
-        while(temp!=null){
-            if(temp.val<x){
-                leftTemp.next=temp;
+        while(head!=null){
+            if(head.val<x){
+                leftTemp.next=head;
                 leftTemp=leftTemp.next;
             }
             else{
-                rightTemp.next=temp;
+                rightTemp.next=head;
                 rightTemp=rightTemp.next;
             }
-            temp=temp.next;
+            head=head.next;
         }
-
-        leftTemp.next=right.next;
         rightTemp.next=null;
+        leftTemp.next=right.next;
         return left.next;
     }
 }
