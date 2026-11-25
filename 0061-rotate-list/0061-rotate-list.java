@@ -24,6 +24,7 @@ class Solution {
         k%=len;
         if(k==0)
             return head;
+            
         temp = head;
         ListNode right=null;
         for(int i=0;i<len-k-1;i++){
