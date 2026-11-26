@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1670-design-front-middle-back-queue](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1670-design-front-middle-back-queue](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
 ## Queue
 |  |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1670-design-front-middle-back-queue](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Merge Sort
 |  |
 | ------- |
@@ -906,8 +910,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
