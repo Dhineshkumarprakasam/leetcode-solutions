@@ -5,6 +5,7 @@ class Solution {
 
         for(int i=0;i<s.length();i++){
             char c = s.charAt(i);
+
             if(c=='(')
                 stk.push(i);
             else if(c=='*')
@@ -14,8 +15,9 @@ class Solution {
                     stk.pop();
                 else if(!star.isEmpty())
                     star.pop();
-                else
+                else{
                     return false;
+                }
             }
         }
 
@@ -24,9 +26,8 @@ class Solution {
                 stk.pop();
                 star.pop();
             }
-            else{
+            else
                 return false;
-            }
         }
 
         return stk.isEmpty();
