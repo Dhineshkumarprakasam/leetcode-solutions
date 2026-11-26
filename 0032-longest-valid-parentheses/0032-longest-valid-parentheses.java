@@ -2,13 +2,15 @@ class Solution {
     public int longestValidParentheses(String s) {
         Stack<Integer> stk = new Stack<>();
         stk.push(-1);
-
         int count=0;
+
         for(int i=0;i<s.length();i++){
             char c = s.charAt(i);
-            if(c=='(')
+
+            if(c=='('){
                 stk.push(i);
-            else if(!stk.isEmpty() && c==')'){
+            }
+            else{
                 stk.pop();
                 if(stk.isEmpty()){
                     stk.push(i);
