@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2048-build-array-from-permutation](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2664-maximize-greatness-of-an-array) |
 | [3778-transform-array-by-parity](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/3778-transform-array-by-parity) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0822-unique-morse-code-words) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dhineshkumarprakasam/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
